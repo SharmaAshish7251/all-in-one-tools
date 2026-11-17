@@ -1,0 +1,21 @@
+{
+  "name": "letmegoogle – Free Private Developer, Image & PDF Tools",
+  "short_name": "letmegoogle",
+  "description": "Free, privacy-first web utility tools for developers, images, and PDFs running 100% locally in your browser with zero server uploads.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
